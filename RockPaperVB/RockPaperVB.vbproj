@@ -69,9 +69,10 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.vb" />
-    <Compile Include="Class2.vb" />
-    <Compile Include="Class3.vb" />
+    <Compile Include="Player.vb" />
+    <Compile Include="Computer.vb" />
+    <Compile Include="Human.vb" />
+    <Compile Include="Game.vb" />
     <Compile Include="Module1.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">

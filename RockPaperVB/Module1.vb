@@ -1,8 +1,8 @@
 ﻿Module Module1
 
     Sub Main()
-        Console.WriteLine("Hi!")
-        Console.ReadLine()
+        Dim game = New Game
+        game.RunGame()
 
 
     End Sub
